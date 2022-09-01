@@ -1,2 +1,2 @@
 # segmentation
-Various scripts and tools for segmentation, primarily for AO-LLSM images.
+Scripts for microscopy cell segmentation stuff
